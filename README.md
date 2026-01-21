@@ -1,5 +1,5 @@
 # vCore Shops - Modern FiveM ESX Shop System 🛒
-![Framework](https://img.shields.io/badge/Framework-ESX_Legacy-green)
+![Version](https://img.shields.io/badge/Version-1.5.0-blue) ![Framework](https://img.shields.io/badge/Framework-ESX_Legacy-green) ![License](https://img.shields.io/badge/License-Open_Source-orange)
 
 This script is designed to improve your server. With its attractive overlay and user-friendly interface, I bet you'll find that many people will thank you for using vCoreShops.
 
