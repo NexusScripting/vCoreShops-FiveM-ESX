@@ -1,5 +1,5 @@
 # vCore Shops - Modern FiveM ESX Shop System 🛒
-![Framework](https://www.esx-framework.org/)
+![Framework](https://img.shields.io/badge/Framework-ESX_Legacy-green)
 
 This script is designed to improve your server. With its attractive overlay and user-friendly interface, I bet you'll find that many people will thank you for using vCoreShops.
 
@@ -21,7 +21,7 @@ This script is designed to improve your server. With its attractive overlay and 
 2.  **Rename** the folder to exactly:
 
     vCore_Shops
-    
+
     > ⚠️ **IMPORTANT:** The script includes a security check. If the folder is named differently, it will **not** start.
 3.  **Drop** the folder into your `resources` directory.
 4.  **Add Items:** Ensure the items listed in `config.lua` (e.g., `phone`, `bread`, `water`) exist in your database (`items` table).
